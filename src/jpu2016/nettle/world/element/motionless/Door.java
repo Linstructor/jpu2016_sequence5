@@ -6,6 +6,6 @@ import jpu2016.nettle.world.element.Sprite;
 class Door extends MotionlessElement {
 
 	public Door() {
-		super(new Sprite("┌┐", "door.jpg"), Permeability.PENETRABLE, 'd');
+		super(new Sprite("┌┐", "door.png"), Permeability.PENETRABLE, 'd');
 	}
 }

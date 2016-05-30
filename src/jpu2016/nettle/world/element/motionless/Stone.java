@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Stone extends MotionlessElement {
 
 	public Stone() {
-		super(new Sprite("■▀", "stone.jpg"), Permeability.BLOCKING, 'S');
+		super(new Sprite("■▀", "stone.png"), Permeability.BLOCKING, 'S');
 	}
 
 }

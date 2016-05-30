@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Monastery extends MotionlessElement {
 
 	public Monastery() {
-		super(new Sprite("⌂⌂", "monastery.jpg"), Permeability.PENETRABLE, 'M');
+		super(new Sprite("⌂⌂", "monastery.png"), Permeability.PENETRABLE, 'M');
 	}
 
 	@Override

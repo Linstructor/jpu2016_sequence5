@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Forest extends MotionlessElement {
 
 	public Forest() {
-		super(new Sprite("♠♣", "forest.jpg"), Permeability.BLOCKING, 'F');
+		super(new Sprite("♠♣", "forest.png"), Permeability.BLOCKING, 'F');
 	}
 
 }

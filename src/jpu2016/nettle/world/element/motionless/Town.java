@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Town extends MotionlessElement {
 
 	public Town() {
-		super(new Sprite("╔╗", "town.jpg"), Permeability.PENETRABLE, 'T');
+		super(new Sprite("╔╗", "town.png"), Permeability.PENETRABLE, 'T');
 	}
 
 	@Override

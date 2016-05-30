@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Wall extends MotionlessElement {
 
 	public Wall() {
-		super(new Sprite("■▀", "wall.jpg"), Permeability.BLOCKING, 'w');
+		super(new Sprite("■▀", "wall.png"), Permeability.BLOCKING, 'w');
 	}
 
 }

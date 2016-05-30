@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Water extends MotionlessElement {
 
 	public Water() {
-		super(new Sprite("~~", "water.jpg"), Permeability.BLOCKING, 'W');
+		super(new Sprite("~~", "water.png"), Permeability.BLOCKING, 'W');
 	}
 
 }

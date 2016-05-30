@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Camp extends MotionlessElement {
 
 	public Camp() {
-		super(new Sprite("┌┐", "camp.jpg"), Permeability.PENETRABLE, 'C');
+		super(new Sprite("┌┐", "camp.png"), Permeability.PENETRABLE, 'C');
 	}
 
 	@Override

@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Floor extends MotionlessElement {
 
 	public Floor() {
-		super(new Sprite("  ", "floor.jpg"), Permeability.PENETRABLE, 'f');
+		super(new Sprite("  ", "floor.png"), Permeability.PENETRABLE, 'f');
 	}
 
 }

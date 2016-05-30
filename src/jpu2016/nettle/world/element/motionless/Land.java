@@ -6,7 +6,7 @@ import jpu2016.nettle.world.element.Sprite;
 class Land extends MotionlessElement {
 
 	public Land() {
-		super(new Sprite("░░", "land.jpg"), Permeability.PENETRABLE, 'L');
+		super(new Sprite("░░", "land.png"), Permeability.PENETRABLE, 'L');
 	}
 
 }
