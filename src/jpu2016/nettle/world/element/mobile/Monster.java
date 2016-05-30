@@ -13,7 +13,5 @@ public class Monster extends Mobile{
     }
 
     public void animate(){
-
-        //Ceci est ma méthode animate
     }
 }

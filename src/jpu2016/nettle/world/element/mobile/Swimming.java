@@ -6,6 +6,7 @@ import jpu2016.nettle.world.element.ISprite;
  * Created by Tristan on 30/05/2016.
  */
 public class Swimming extends Monster{
+
     public Swimming(ISprite sprite) {
         super(sprite);
     }
