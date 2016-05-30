@@ -17,12 +17,9 @@
     <orderEntry type="module-library" exported="">
       <library name="aedt.showboard.jar">
         <CLASSES>
-          <root url="file://C:/Users/jadiet/Google Drive/2015-2016 A1 - POO_UML_JAVA/Eclipse/aedt.showboard.jar" />
-          <root url="jar://$MODULE_DIR$/../aedt.showboard.jar!/" />
+          <root url="jar://$MODULE_DIR$/aedt.showboard.jar!/" />
         </CLASSES>
-        <JAVADOC>
-          <root url="jar:file:/C:/Users/jadiet/Google%20Drive/2015-2016%20A1%20-%20POO_UML_JAVA/Eclipse/aedt.showboard.doc.jar!/doc" />
-        </JAVADOC>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
