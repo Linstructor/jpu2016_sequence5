@@ -6,5 +6,5 @@ package jpu2016.nettle.world.element.mobile;
 public interface Animate {
 
     public void animate();
-    //lol mdr
+
 }
