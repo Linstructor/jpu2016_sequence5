@@ -5,5 +5,9 @@ import jpu2016.nettle.world.element.ISprite;
 /**
  * Created by Tristan on 30/05/2016.
  */
-public class Shooting {
+public class Shooting implements Animate{
+    @Override
+    public void animate() {
+        System.out.println("Shoot");
+    }
 }
