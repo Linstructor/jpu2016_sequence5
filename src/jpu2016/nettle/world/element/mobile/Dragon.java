@@ -7,7 +7,15 @@ import jpu2016.nettle.world.element.ISprite;
  */
 public class Dragon extends Monster{
 
+
+
     public Dragon() {
-        super(null, new Flying());
+        super(null, new Animate[] {new Flying(),new Shooting()});
+
+        super.getAnimate();
+
     }
+
+
+
 }
