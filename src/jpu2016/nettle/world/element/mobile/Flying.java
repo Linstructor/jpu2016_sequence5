@@ -9,6 +9,6 @@ public class Flying implements Animate{
 
     @Override
     public void animate() {
-
+        System.out.println("Flying");
     }
 }
