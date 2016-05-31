@@ -15,7 +15,4 @@ public class Dragon extends Monster{
         super.getAnimate();
 
     }
-
-
-
 }
